@@ -6,6 +6,11 @@
     background: url(https://ninojacobs.github.io/skins/disconnecwted.png);
 }
 
+.ds4.disconnected div {
+    display: none;
+}
+
+
 .controller.edit {
     background: url(https://ninojacobs.github.io/skins/base-custom.png);
 }
