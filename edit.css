@@ -2,6 +2,9 @@
     background: url(https://ninojacobs.github.io/skins/base-custom.png);
 }
 
+.edit .ds4.disconnected {
+    background: url(https://ninojacobs.github.io/skins/disconnecwted.png);
+}
 
 .controller.edit {
     background: url(https://ninojacobs.github.io/skins/base-custom.png);
