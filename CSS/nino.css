@@ -1,24 +1,24 @@
 .controller.ds4 {
-    background: url(https://imgur.com/ZeStxie.png);
+    background: url(https://imgur.com/UigVXJw.png);
     height: 598px;
     width: 806px;
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(https://imgur.com/O9ey1gh.png);
 }
 
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggers.svgz);
+    background: url(https://imgur.com/ZuzqXbd.png);
     opacity: 0;
 }
 
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumper.svgz) no-repeat;
+    background: url(https://imgur.com/lQ0mAr9.png) no-repeat;
     opacity: 0;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svgz);
+    background: url(https://imgur.com/kJwbE3X.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -37,18 +37,18 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/face.svgz);
+    background: url(https://imgur.com/qnID21j.png);
 }
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticks.svgz);
+    background: url(https://imgur.com/xAuOsTj.png);
     height: 94px;
     width: 94px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svgz);
+    background: url(https://imgur.com/gqSDUav.png);
     position: absolute;
 }
 
