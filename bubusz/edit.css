@@ -5,7 +5,7 @@
 }
 
 .ds4.disconnected {
-    background: url(https://imgur.com/plWzsgGs.png);
+    background: url(https://imgur.com/plWzsgG.png);
 }
 
 .ds4 .trigger {
@@ -51,6 +51,7 @@
     background: url(https://imgur.com/9DUYhjb.png);
     position: absolute;
 }
+
 
 .ds4.disconnected div {
     display: none;
