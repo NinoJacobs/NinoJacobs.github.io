@@ -37,7 +37,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/FP23oxL.png);
+    background: url(https://imgur.com/tDksta3.png);
 }
 
 .ds4 .stick {
@@ -47,8 +47,9 @@
     width: 94px;
 }
 
+
 .ds4 .face {
-    background: url(https://imgur.com/tDksta3.png);
+    background: url(https://imgur.com/FP23oxL.png);
     position: absolute;
 }
 
