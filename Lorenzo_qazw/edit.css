@@ -1,24 +1,24 @@
 .controller.ds4 {
-    background: url(https://imgur.com/GPawKas.png);
+    background: url(https://imgur.com/Bv4DVkl.png);
     height: 598px;
     width: 806px;
 }
 
 .ds4.disconnected {
-    background: url(https://imgur.com/plWzsgG.png);
+    background: url(https://imgur.com/r0oOXvL.png);
 }
 
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://imgur.com/GaUqHHQ.png);
+    background: url(https://imgur.com/55W5myY.png);
     opacity: 0;
 }
 
 .ds4 .bumper {
     width: 99px;
     height: 23px; 
-    background: url(https://imgur.com/CmQmGCv.png) no-repeat;
+    background: url(https://imgur.com/XrcIoTh.png) no-repeat;
     opacity: 0;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://imgur.com/dTyesil.png);
+    background: url(https://imgur.com/jVYiAdQ.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -37,18 +37,18 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/52Rzulj.png);
+    background: url(https://imgur.com/FP23oxL.png);
 }
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://imgur.com/LAoQGBi.png);
+    background: url(https://imgur.com/sKOKWLY.png);
     height: 94px;
     width: 94px;
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/9DUYhjb.png);
+    background: url(https://imgur.com/tDksta3.png);
     position: absolute;
 }
 
