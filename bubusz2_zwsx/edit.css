@@ -33,7 +33,7 @@
     opacity: 0;
 }
 
-.ds4 .button {
+.ds4 .button { 
     position: absolute;
     width: 55px;
     height: 55px;
@@ -52,6 +52,9 @@
     position: absolute;
 }
 
+.ds4 .meta.pressed {
+    background: url(https://imgur.com/0Jhpavg.png) no-repeat center;
+}
 
 .ds4.disconnected div {
     display: none;
@@ -109,10 +112,6 @@
     position: absolute;
     left: 382px;
     bottom: 216px;
-}
-
-.ds4 .meta.pressed {
-    background: url(ps4-assets/meta.svgz) no-repeat center;
 }
 
 .ds4 .arrows {
